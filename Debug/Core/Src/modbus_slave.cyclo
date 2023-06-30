@@ -1,0 +1,4 @@
+modbus_slave.c:19:6:sendData	1
+modbus_slave.c:29:6:modbusException	1
+modbus_slave.c:41:9:readHoldingRegs	5
+modbus_slave.c:80:9:readInputRegs	5
